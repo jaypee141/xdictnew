@@ -34,7 +34,7 @@ function App() {
       setRefer(findWord.meaning);
       setdata("");
     } else {
-      setRefer("Word not found in the dict.");
+      setRefer("Word not found in the dictionary.");
     }
   };
   return (
